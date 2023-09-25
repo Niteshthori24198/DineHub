@@ -29,7 +29,7 @@ export const reducer = (state = initialState, { type, payload }) => {
         }
 
         case GET_USER: {
-            console.log("payload ==>", payload);
+            
             return {
                 ...state,
                 isLoading: false,

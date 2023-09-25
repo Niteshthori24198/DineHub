@@ -37,7 +37,6 @@ export default function AddRestaurant({ goToStepZero, selectedRestaurentId: rest
 
     React.useEffect(() => {
         if (restaurantId) {
-            console.log(restaurantsData);
             const data = restaurantsData.find((item) => (+item.id) === (+restaurantId));
             setRestaurant(data)
         } else {

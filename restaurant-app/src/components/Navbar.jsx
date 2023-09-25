@@ -46,7 +46,6 @@ function Navbar() {
 
     const Activestyle = {
         fontWeight: '2000',
-        // color: '#007bff',
         color: 'red',
         textDecoration: 'none'
     };

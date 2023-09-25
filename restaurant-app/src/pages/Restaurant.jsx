@@ -24,10 +24,6 @@ export default function Restaurant() {
   const isLoading = useSelector((state) => state.restaurant.isLoading);
   const totalCount = useSelector((state) => state.restaurant.totalCount);
 
-  console.log('***************************');
-  console.log(restaurants);
-  console.log('***************************');
-
   React.useEffect(() => {
     const params = new URLSearchParams();
     params.append('page', page);
