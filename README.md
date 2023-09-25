@@ -83,19 +83,33 @@ The Dinehub App is a web application built to manage and display information abo
 
 ### Home Page
 
-
-
+![Alt text](image.png)
 
 ### Add New Restaurant Page
 
-
+![Alt text](image-1.png)
 
 ### Restaurant Page
 
+![Alt text](image-8.png)
+
+![Alt text](image-2.png)
+
+![Alt text](image-3.png)
 
 
 ### Edit Restaurant Page
 
+![Alt text](image-4.png)
+
+![Alt text](image-5.png)
+
+![Alt text](image-6.png)
+
+
+### User Page
+
+![Alt text](image-7.png)
 
 
 ## Project Structure
