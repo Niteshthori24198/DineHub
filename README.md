@@ -124,10 +124,10 @@ The Dinehub App is a web application built to manage and display information abo
 ## Deployement
 
 -   **Backend API Link** :- 
-***https://restaurant-listing-app-niteshthori24198.vercel.app/***
+***https://dinehub-be-niteshthori24198-niteshthori24198s-projects.vercel.app/***
 
 -   **Frontend Link** :-
-***https://restaurant-app-niteshthori24198.vercel.app/***
+***https://restaurant-app-niteshthori24198-niteshthori24198s-projects.vercel.app/***
 
 
 ## Contributing
